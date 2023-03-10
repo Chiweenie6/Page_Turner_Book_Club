@@ -21,7 +21,7 @@ A blog site where users can post and comment on anything tech, Model-View-Contro
 This application uses Node.js and Express.js to create a RESTful API, Handlebars.js as the template engine to create a great looking site along with MySQL and Sequelize ORM for the database.
   
   
-  Deployed app Link:   
+  Deployed app Link:   https://page-turner-book-club.herokuapp.com/
   
 
 
