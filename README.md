@@ -41,19 +41,19 @@ This application uses Node.js and Express.js to create a RESTful API, Handlebars
   n/a
 
 ## Contributing
-  Kevin Breedlove
+Kevin Breedlove
 * GitHub Profile: https://github.com/Chiweenie6
 * Email: kbreedlo06@gmail.com
 
-  John Schoppmann
+John Schoppmann
 * GitHub Profile: https://github.com/E11Evated
 * Email: john.schoppmann@yahoo.com
 
-  Carlos Vargas
+Carlos Vargas
 * GitHub Profile: https://github.com/carliys
 * Email: carlosvargas3200@gmail.com
 
-  Katie Speakman
+Katie Speakman
 * GitHub Profile: https://github.com/krchandler27
 * Email: krchandler27@gmail.com
 
