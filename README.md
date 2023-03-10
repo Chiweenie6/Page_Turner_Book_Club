@@ -28,7 +28,11 @@ This application uses Node.js and Express.js to create a RESTful API, Handlebars
 ## Usage
   Once users have singed up or logged in they can view books that have been added to the site. Users can add new books along with the ability to add comments to all the book. The user can also update and delete their own created book posts and comments.
   
-  Images:  
+  Images:  ![image](https://user-images.githubusercontent.com/113393706/224372341-6eb256d4-8fbe-401e-ac99-4ccc4e669145.png)  
+  ![image](https://user-images.githubusercontent.com/113393706/224372570-7faa0436-970b-4025-9856-c5127a1fe7c2.png)  
+  ![image](https://user-images.githubusercontent.com/113393706/224372741-34b7bcc1-176b-483b-acc4-74f67090dae5.png)  
+  ![image](https://user-images.githubusercontent.com/113393706/224372870-5a0ba713-ac11-4968-ab0d-ad7205a78a98.png)
+
 
 
 
