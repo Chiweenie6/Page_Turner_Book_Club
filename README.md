@@ -2,10 +2,6 @@
 A book club site where users can create a profile, add books to discuss and post comment along  with other signed in users.
 
 
-# Lets_Talk_Tech
-A blog site where users can post and comment on anything tech, Model-View-Controller built with Handlebars.js, Sequelize and express-session.
-
-
 [![MIT License](https://img.shields.io/badge/License-MIT-blue)]((https://opensource.org/licenses/MIT))
 
 ## Table of Content
