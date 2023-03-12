@@ -2,10 +2,6 @@
 A book club site where users can create a profile, add books to discuss and post comment along  with other signed in users.
 
 
-# Lets_Talk_Tech
-A blog site where users can post and comment on anything tech, Model-View-Controller built with Handlebars.js, Sequelize and express-session.
-
-
 [![MIT License](https://img.shields.io/badge/License-MIT-blue)]((https://opensource.org/licenses/MIT))
 
 ## Table of Content
@@ -21,14 +17,18 @@ A blog site where users can post and comment on anything tech, Model-View-Contro
 This application uses Node.js and Express.js to create a RESTful API, Handlebars.js as the template engine to create a great looking site along with MySQL and Sequelize ORM for the database.
   
   
-  Deployed app Link:   
+  Deployed app Link:   https://page-turner-book-club.herokuapp.com/
   
 
 
 ## Usage
-  Once users have singed up or logged in they can view books that have been added to the site. Users can add new books along with the ability to add comments to all the book. The user can also update and delete their own created book posts and comments.
+  The app is a single book club that allows people to read and discuss books between one another. Once users have singed up or logged in they can view books that have been added to the site. Users can add new books along with the ability to add comments to all the book. The user can also update and delete their own created book posts and comments.
   
-  Images:  
+  Images:  ![image](https://user-images.githubusercontent.com/113393706/224372341-6eb256d4-8fbe-401e-ac99-4ccc4e669145.png)  
+  ![image](https://user-images.githubusercontent.com/113393706/224372570-7faa0436-970b-4025-9856-c5127a1fe7c2.png)  
+  ![image](https://user-images.githubusercontent.com/113393706/224372741-34b7bcc1-176b-483b-acc4-74f67090dae5.png)  
+  ![image](https://user-images.githubusercontent.com/113393706/224372870-5a0ba713-ac11-4968-ab0d-ad7205a78a98.png)
+
 
 
 
@@ -37,7 +37,21 @@ This application uses Node.js and Express.js to create a RESTful API, Handlebars
   n/a
 
 ## Contributing
-  n/a
+Kevin Breedlove
+* GitHub Profile: https://github.com/Chiweenie6
+* Email: kbreedlo06@gmail.com
+
+John Schoppmann
+* GitHub Profile: https://github.com/E11Evated
+* Email: john.schoppmann@yahoo.com
+
+Carlos Vargas
+* GitHub Profile: https://github.com/carliys
+* Email: carlosvargas3200@gmail.com
+
+Katie Speakman
+* GitHub Profile: https://github.com/krchandler27
+* Email: krchandler27@gmail.com
 
 ## Tests
   n/a
